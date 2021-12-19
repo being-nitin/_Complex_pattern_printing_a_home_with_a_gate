@@ -38,4 +38,5 @@ public class Main {
     }
     }
 }
-// in this 7th and 8th column will print space and rest will print the stars:
+// In this 7th and 8th column will print space and rest will print the stars:
+// "Code Never Lies"
